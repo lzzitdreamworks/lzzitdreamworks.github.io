@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://itdreamworks.xyz/"/>
-  <updated>2017-12-18T07:12:21.349Z</updated>
+  <updated>2017-12-19T08:40:35.894Z</updated>
   <id>https://itdreamworks.xyz/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>分类测试文章</title>
+    <link href="https://itdreamworks.xyz/2017/12/19/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>https://itdreamworks.xyz/2017/12/19/分类测试文章/</id>
+    <published>2017-12-19T08:38:42.000Z</published>
+    <updated>2017-12-19T08:40:35.894Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Testing" scheme="https://itdreamworks.xyz/categories/Testing/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>标签测试文章</title>
+    <link href="https://itdreamworks.xyz/2017/12/19/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>https://itdreamworks.xyz/2017/12/19/标签测试文章/</id>
+    <published>2017-12-19T08:30:43.000Z</published>
+    <updated>2017-12-19T08:34:30.668Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="Testing" scheme="https://itdreamworks.xyz/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="https://itdreamworks.xyz/tags/Another-Tag/"/>
+    
+  </entry>
   
   <entry>
     <title>我的2018计划</title>
