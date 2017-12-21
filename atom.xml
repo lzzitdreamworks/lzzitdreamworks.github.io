@@ -65,6 +65,42 @@
   </entry>
   
   <entry>
+    <title>测试文章置顶功能</title>
+    <link href="https://itdreamworks.xyz/2017/12/16/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD/"/>
+    <id>https://itdreamworks.xyz/2017/12/16/测试文章置顶功能/</id>
+    <published>2017-12-16T07:19:10.000Z</published>
+    <updated>2017-12-21T07:26:01.205Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Testing" scheme="https://itdreamworks.xyz/categories/Testing/"/>
+    
+    
+      <category term="文章置顶" scheme="https://itdreamworks.xyz/tags/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章置顶功能</title>
+    <link href="https://itdreamworks.xyz/2017/12/10/%E6%B5%8B%E8%AF%95%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD/"/>
+    <id>https://itdreamworks.xyz/2017/12/10/测试置顶功能/</id>
+    <published>2017-12-10T07:19:10.000Z</published>
+    <updated>2017-12-21T07:33:21.698Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Testing" scheme="https://itdreamworks.xyz/categories/Testing/"/>
+    
+    
+      <category term="文章置顶" scheme="https://itdreamworks.xyz/tags/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Git简明入门实践</title>
     <link href="https://itdreamworks.xyz/2017/11/17/Git%E7%AE%80%E6%98%8E%E5%85%A5%E9%97%A8%E5%AE%9E%E8%B7%B5/"/>
     <id>https://itdreamworks.xyz/2017/11/17/Git简明入门实践/</id>
