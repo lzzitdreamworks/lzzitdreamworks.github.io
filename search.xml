@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[分类测试文章]]></title>
+    <url>%2F2017%2F12%2F19%2F%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[标签测试文章]]></title>
+    <url>%2F2017%2F12%2F19%2F%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>Testing</tag>
+        <tag>Another Tag</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[我的2018计划]]></title>
+    <url>%2F2017%2F12%2F18%2F%E6%88%91%E7%9A%842018%E8%AE%A1%E5%88%92%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[测试文章置顶功能]]></title>
+    <url>%2F2017%2F12%2F16%2F%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+      <tags>
+        <tag>文章置顶</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[测试文章置顶功能]]></title>
+    <url>%2F2017%2F12%2F10%2F%E6%B5%8B%E8%AF%95%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+      <tags>
+        <tag>文章置顶</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Git简明入门实践]]></title>
+    <url>%2F2017%2F11%2F17%2FGit%E7%AE%80%E6%98%8E%E5%85%A5%E9%97%A8%E5%AE%9E%E8%B7%B5%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>Git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F11%2F16%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
