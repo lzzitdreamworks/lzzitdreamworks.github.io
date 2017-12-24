@@ -43,7 +43,7 @@
   </entry>
   <entry>
     <title><![CDATA[测试文章置顶功能]]></title>
-    <url>%2F2017%2F12%2F16%2F%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD%2F</url>
+    <url>%2F2017%2F12%2F16%2F%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD%2F</url>
     <content type="text"></content>
       <categories>
         <category>Testing</category>
@@ -54,7 +54,7 @@
   </entry>
   <entry>
     <title><![CDATA[测试文章置顶功能]]></title>
-    <url>%2F2017%2F12%2F10%2F%E6%B5%8B%E8%AF%95%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD%2F</url>
+    <url>%2F2017%2F12%2F16%2F%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD%2F</url>
     <content type="text"></content>
       <categories>
         <category>Testing</category>
@@ -75,5 +75,16 @@
     <title><![CDATA[Hello World]]></title>
     <url>%2F2017%2F11%2F16%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[测试文章置顶功能]]></title>
+    <url>%2F2017%2F05%2F10%2F%E6%B5%8B%E8%AF%95%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+      <tags>
+        <tag>文章置顶</tag>
+      </tags>
   </entry>
 </search>
