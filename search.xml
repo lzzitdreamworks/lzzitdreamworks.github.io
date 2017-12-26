@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[测试付费阅读文章]]></title>
+    <url>%2F2017%2F12%2F26%2F%E6%B5%8B%E8%AF%95%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E6%96%87%E7%AB%A0%2F</url>
+    <content type="text"><![CDATA[我是博文查看时，密码输入框上面的描述性文字。 U2FsdGVkX1+O7JMIqk/FB5BYwQ7r4e09BqSHIcnk20o=]]></content>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[测试版权]]></title>
     <url>%2F2017%2F12%2F24%2F%E6%B5%8B%E8%AF%95%E7%89%88%E6%9D%83%2F</url>
     <content type="text"></content>
@@ -14,7 +22,7 @@
   <entry>
     <title><![CDATA[测试文章加密]]></title>
     <url>%2F2017%2F12%2F23%2F%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[Please enter the password to read the blog. U2FsdGVkX19Hb/4U0ZvETxNMHeE8+6jLNJnjjnniHzM=]]></content>
       <tags>
         <tag>技巧</tag>
       </tags>
@@ -43,7 +51,7 @@
   </entry>
   <entry>
     <title><![CDATA[测试文章置顶功能]]></title>
-    <url>%2F2017%2F12%2F16%2F%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD%2F</url>
+    <url>%2F2017%2F12%2F16%2F%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD%2F</url>
     <content type="text"></content>
       <categories>
         <category>Testing</category>
@@ -54,7 +62,7 @@
   </entry>
   <entry>
     <title><![CDATA[测试文章置顶功能]]></title>
-    <url>%2F2017%2F12%2F16%2F%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD%2F</url>
+    <url>%2F2017%2F12%2F16%2F%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD%2F</url>
     <content type="text"></content>
       <categories>
         <category>Testing</category>
