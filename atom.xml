@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://itdreamworks.xyz/"/>
-  <updated>2017-12-26T07:44:50.051Z</updated>
+  <updated>2017-12-26T08:33:13.952Z</updated>
   <id>https://itdreamworks.xyz/</id>
   
   <author>
@@ -17,11 +17,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>测试文章加密阅读Test</title>
+    <link href="https://itdreamworks.xyz/2017/12/26/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86%E9%98%85%E8%AF%BBTest/"/>
+    <id>https://itdreamworks.xyz/2017/12/26/测试文章加密阅读Test/</id>
+    <published>2017-12-26T08:24:39.000Z</published>
+    <updated>2017-12-26T08:33:13.952Z</updated>
+    
+    <summary type="html">
+    
+      我是该博文的摘要，会显示在博客的列表页以及博文的内容简介。
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://itdreamworks.xyz/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>测试付费阅读文章</title>
     <link href="https://itdreamworks.xyz/2017/12/26/%E6%B5%8B%E8%AF%95%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E6%96%87%E7%AB%A0/"/>
     <id>https://itdreamworks.xyz/2017/12/26/测试付费阅读文章/</id>
     <published>2017-12-26T07:43:24.000Z</published>
-    <updated>2017-12-26T07:44:50.051Z</updated>
+    <updated>2017-12-26T07:53:14.969Z</updated>
     
     <summary type="html">
     
