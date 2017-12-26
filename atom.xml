@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://itdreamworks.xyz/"/>
-  <updated>2017-12-26T08:33:13.952Z</updated>
+  <updated>2017-12-26T09:34:58.211Z</updated>
   <id>https://itdreamworks.xyz/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>batupian</title>
+    <link href="https://itdreamworks.xyz/2017/12/26/batupian/"/>
+    <id>https://itdreamworks.xyz/2017/12/26/batupian/</id>
+    <published>2017-12-26T09:33:34.000Z</published>
+    <updated>2017-12-26T09:34:58.211Z</updated>
+    
+    <summary type="html">
+    
+      我是该博文的摘要，会显示在博客的列表页。
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>测试文章加密阅读Test</title>
