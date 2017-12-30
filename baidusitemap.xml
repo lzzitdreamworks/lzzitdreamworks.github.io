@@ -3,48 +3,13 @@
 
 
     
-    
   <url>
-    <loc>https://itdreamworks.xyz/2017/12/26/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86%E9%98%85%E8%AF%BBTest/</loc>
-    <lastmod>2017-12-27T07:24:45.718Z</lastmod>
+    <loc>https://itdreamworks.xyz/2017/12/31/%E6%88%91%E7%9A%842018%E8%AE%A1%E5%88%92/</loc>
+    <lastmod>2017-12-30T04:13:41.170Z</lastmod>
     <data>
         <display>
-        <title>测试文章加密阅读Test</title>
-        <pubTime>2017-12-26T08:24:39.000Z</pubTime>
-        
-        <tag>测试</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://itdreamworks.xyz/2017/12/26/%E6%B5%8B%E8%AF%95%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2017-12-27T06:52:02.947Z</lastmod>
-    <data>
-        <display>
-        <title>测试付费阅读文章</title>
-        <pubTime>2017-12-26T07:43:24.000Z</pubTime>
-        
-        <tag>测试</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://itdreamworks.xyz/2017/12/26/batupian/</loc>
-    <lastmod>2017-12-26T09:34:58.211Z</lastmod>
-    <data>
-        <display>
-        <title>batupian</title>
-        <pubTime>2017-12-26T09:33:34.000Z</pubTime>
+        <title>我的2018计划</title>
+        <pubTime>2017-12-31T13:12:21.000Z</pubTime>
         
          
            
@@ -54,12 +19,12 @@
 
     
   <url>
-    <loc>https://itdreamworks.xyz/2017/05/10/%E6%B5%8B%E8%AF%95%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD/</loc>
-    <lastmod>2017-12-24T10:48:35.764Z</lastmod>
+    <loc>https://itdreamworks.xyz/2017/12/16/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD/</loc>
+    <lastmod>2017-12-30T04:13:19.510Z</lastmod>
     <data>
         <display>
         <title>测试文章置顶功能</title>
-        <pubTime>2017-05-10T07:19:10.000Z</pubTime>
+        <pubTime>2017-12-16T15:11:10.000Z</pubTime>
         
         <tag>文章置顶</tag>
          
@@ -74,19 +39,17 @@
 
     
   <url>
-    <loc>https://itdreamworks.xyz/2017/12/24/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9D%83/</loc>
-    <lastmod>2017-12-24T10:22:43.016Z</lastmod>
+    <loc>https://itdreamworks.xyz/2017/12/19/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2017-12-30T04:12:57.006Z</lastmod>
     <data>
         <display>
-        <title>测试版权</title>
-        <pubTime>2017-12-24T10:21:22.000Z</pubTime>
+        <title>分类测试文章</title>
+        <pubTime>2017-12-19T15:38:42.000Z</pubTime>
         
-        <tag>canvas</tag>
-         
          
            
              
-              <breadCrumb title="前端" url="https://itdreamworks.xyz/categories/%E5%89%8D%E7%AB%AF/"/>
+              <breadCrumb title="Testing" url="https://itdreamworks.xyz/categories/Testing/"/>
           
         </display>
     </data>
@@ -94,29 +57,12 @@
 
     
   <url>
-    <loc>https://itdreamworks.xyz/2017/12/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86/</loc>
-    <lastmod>2017-12-23T03:15:13.637Z</lastmod>
-    <data>
-        <display>
-        <title>测试文章加密</title>
-        <pubTime>2017-12-23T03:13:27.000Z</pubTime>
-        
-        <tag>技巧</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://itdreamworks.xyz/2017/12/16/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD/</loc>
-    <lastmod>2017-12-21T07:26:01.205Z</lastmod>
+    <loc>https://itdreamworks.xyz/2017/05/10/%E6%B5%8B%E8%AF%95%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD/</loc>
+    <lastmod>2017-12-30T04:12:42.346Z</lastmod>
     <data>
         <display>
         <title>测试文章置顶功能</title>
-        <pubTime>2017-12-16T07:19:10.000Z</pubTime>
+        <pubTime>2017-05-10T15:19:10.000Z</pubTime>
         
         <tag>文章置顶</tag>
          
@@ -132,11 +78,11 @@
     
   <url>
     <loc>https://itdreamworks.xyz/2017/12/16/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6%E5%8A%9F%E8%83%BD/</loc>
-    <lastmod>2017-12-21T07:26:01.205Z</lastmod>
+    <lastmod>2017-12-30T04:12:25.782Z</lastmod>
     <data>
         <display>
         <title>测试文章置顶功能</title>
-        <pubTime>2017-12-16T07:19:10.000Z</pubTime>
+        <pubTime>2017-12-16T15:19:10.000Z</pubTime>
         
         <tag>文章置顶</tag>
          
@@ -150,33 +96,84 @@
     </url>
 
     
-    
   <url>
-    <loc>https://itdreamworks.xyz/2017/12/19/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2017-12-19T08:40:35.894Z</lastmod>
+    <loc>https://itdreamworks.xyz/2017/12/26/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86%E9%98%85%E8%AF%BBTest/</loc>
+    <lastmod>2017-12-30T04:12:12.778Z</lastmod>
     <data>
         <display>
-        <title>分类测试文章</title>
-        <pubTime>2017-12-19T08:38:42.000Z</pubTime>
+        <title>测试文章加密阅读Test</title>
+        <pubTime>2017-12-26T15:24:39.000Z</pubTime>
         
+        <tag>测试</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://itdreamworks.xyz/2017/12/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86/</loc>
+    <lastmod>2017-12-30T04:11:57.686Z</lastmod>
+    <data>
+        <display>
+        <title>测试文章加密</title>
+        <pubTime>2017-12-23T15:13:27.000Z</pubTime>
+        
+        <tag>技巧</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://itdreamworks.xyz/2017/12/26/%E6%B5%8B%E8%AF%95%E4%BB%98%E8%B4%B9%E9%98%85%E8%AF%BB%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2017-12-30T04:11:40.530Z</lastmod>
+    <data>
+        <display>
+        <title>测试付费阅读文章</title>
+        <pubTime>2017-12-26T15:43:24.000Z</pubTime>
+        
+        <tag>测试</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://itdreamworks.xyz/2017/12/24/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9D%83/</loc>
+    <lastmod>2017-12-30T04:11:24.214Z</lastmod>
+    <data>
+        <display>
+        <title>测试版权</title>
+        <pubTime>2017-12-24T15:45:22.000Z</pubTime>
+        
+        <tag>canvas</tag>
+         
          
            
              
-              <breadCrumb title="Testing" url="https://itdreamworks.xyz/categories/Testing/"/>
+              <breadCrumb title="前端" url="https://itdreamworks.xyz/categories/%E5%89%8D%E7%AB%AF/"/>
           
         </display>
     </data>
     </url>
 
     
-    
   <url>
     <loc>https://itdreamworks.xyz/2017/12/19/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2017-12-19T08:34:30.668Z</lastmod>
+    <lastmod>2017-12-30T04:10:57.745Z</lastmod>
     <data>
         <display>
         <title>标签测试文章</title>
-        <pubTime>2017-12-19T08:30:43.000Z</pubTime>
+        <pubTime>2017-12-19T14:50:43.000Z</pubTime>
         
         <tag>Testing</tag>
          
@@ -189,29 +186,13 @@
     </url>
 
     
-    
-  <url>
-    <loc>https://itdreamworks.xyz/2017/12/18/%E6%88%91%E7%9A%842018%E8%AE%A1%E5%88%92/</loc>
-    <lastmod>2017-12-18T07:12:21.349Z</lastmod>
-    <data>
-        <display>
-        <title>我的2018计划</title>
-        <pubTime>2017-12-18T07:12:21.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
   <url>
     <loc>https://itdreamworks.xyz/2017/11/17/Git%E7%AE%80%E6%98%8E%E5%85%A5%E9%97%A8%E5%AE%9E%E8%B7%B5/</loc>
-    <lastmod>2017-11-17T02:09:37.787Z</lastmod>
+    <lastmod>2017-12-30T04:10:10.073Z</lastmod>
     <data>
         <display>
         <title>Git简明入门实践</title>
-        <pubTime>2017-11-17T02:00:12.000Z</pubTime>
+        <pubTime>2017-11-17T15:10:12.000Z</pubTime>
         
         <tag>Git</tag>
          
@@ -221,6 +202,25 @@
     </data>
     </url>
 
+    
+  <url>
+    <loc>https://itdreamworks.xyz/2017/12/26/batupian/</loc>
+    <lastmod>2017-12-30T04:09:35.597Z</lastmod>
+    <data>
+        <display>
+        <title>batupian</title>
+        <pubTime>2017-12-26T15:33:34.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
     
   <url>
     <loc>https://itdreamworks.xyz/2017/11/16/hello-world/</loc>
